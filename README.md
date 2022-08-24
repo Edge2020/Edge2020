@@ -1,7 +1,6 @@
 ### ✨QAQ?!
 
 💬Just a simple simple student.
-+ Email: wuzhenlin2013@live.com
 + QQ: 1057087938 (Edge)
 
 ✴️I am interested in:
