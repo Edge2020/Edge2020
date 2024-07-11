@@ -1,15 +1,7 @@
-### ✨QAQ?!
+### 
+💬Just a simple student.
 
-💬Just a simple simple student.
-+ QQ: 1057087938 (Edge)
-
-✴️I am interested in:
-+ 🖥️Programming
-+ 🔡Calculator
-+ 💻Computer
-+ 🎧Earphone
-+ 🎵Music
-+ 💠And so on...
+...
 
 <!--
 **Edge2020/Edge2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
